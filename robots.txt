@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pauhu.dev/sitemap.xml
