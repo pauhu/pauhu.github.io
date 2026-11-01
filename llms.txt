@@ -1,0 +1,21 @@
+# Pauhu Builders
+
+> Call Pauhu AI from programs and devices over HTTPS. Full machine guide: https://api.pauhu.ai/llms.txt
+
+- OpenAPI: https://api.pauhu.ai/v1/specification
+- Device firewall rules: https://github.com/pauhu/device-firewall
+- MCP (streamable HTTP, secondary): https://api.pauhu.ai/mcp (Authorization: Bearer)
+- MCP server card: https://api.pauhu.ai/.well-known/mcp.json
+- A2A card: https://api.pauhu.ai/.well-known/agent-card.json
+- Offers and prices: https://api.pauhu.ai/v1/lds/outputs
+- Changes: https://pauhu.ai/changes.json
+- Community discussions (Announcements, Q&A, Ideas, Show and tell): https://github.com/pauhu/mcp/discussions
+
+## We go further (Know-how × machines)
+
+No more copy-pasting and clicking.
+
+- Price, coming: one price per day of use for each device, each device with its own key; payments are not open yet, the price shows when they open
+- Translate tool: coming: any language, on the device, with terms checked against official EU terminology
+- Click steps: coming: where Pauhu can't act yet, numbered click steps, and running them as an acceptance test
+- On the device: reading text in a photo and reading text aloud run in the browser on the device, free; more is coming
