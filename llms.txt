@@ -9,6 +9,7 @@
 - A2A card: https://api.pauhu.ai/.well-known/agent-card.json
 - Offers and prices: https://api.pauhu.ai/v1/lds/outputs
 - Changes: https://pauhu.ai/changes.json
+- Community: Pauhu Insiders on Discord: https://discord.gg/tCBF5swNbV
 - Community discussions (Announcements, Q&A, Ideas, Show and tell): https://github.com/pauhu/mcp/discussions
 
 ## We go further (Know-how × machines)
